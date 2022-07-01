@@ -14,20 +14,59 @@ The following information was gathered with and without the altered scores throu
 8. Scores by School Type
 
 ## Resources
-Maria provided data in a CSV file that contained each student's ID, name, gender, grade, school name, and standardized math and reading test scores. My approach was to analyze the CSV data using Python in a Jupyter Notebook, which allowed me to easily create dataframes and tables to showcase my findings. 
-- Data Source: students_complete.csv
-- Software: Python 3.9.12, Jupyter Notebooks
+Maria provided student data in a CSV file that contained each student's ID, name, gender, grade, school name, and standardized math and reading test scores. Additonally, she provided a seperate CSV that included each school's name, type, size, and budget. My approach was to analyze the CSV data using Python in a Jupyter Notebook, which allowed me to easily create dataframes and tables to showcase my findings. 
+- Data Source: students_complete.csv, school_complete.csv
+- Software: Jupyter Notebooks
+- Language: Python
+- Libraries: Pandas, Numpy, os
+
 
 ## Results
-The analysis of the election by county show that: 
-- Effect on District Summary
-- Effect on School Summary
+
+### Impact on District Summary
+Original District Summary: 
+![Original District Summary](../main/Resources/district_sum_1.png)
+
+Updated District Summary:
+![Updated District Summary](../main/Resources/district_sum_2.png)
+
+- Removing 
+
+### Impact on School Summary
+Original Top 5 School Summary: 
+![Original Top 5](../main/Resources/school_top_1.png)
+
+Updated Top 5 School Summary:
+![Updated Top 5](../main/Resources/school_top_2.png)
+
+- Removing 
+
+Original Bottom 5 School Summary: 
+![Original Bottom 5](../main/Resources/school_bottom_1.png)
+
+Updated Bottom 5 School Summary:
+![Updated Bottom 5](../main/Resources/school_bottom_2.png)
+
+- Removing 
+
+### Impact on School Summary
+Original Top 5 School Summary: 
+![Original Top 5](../main/Resources/school_top_1.png)
+
+Updated Top 5 School Summary:
+![Updated Top 5](../main/Resources/school_top_2.png)
+
+- Removing 
 
 
 ## Summary
-The output of this script contains accurate statstical data that can be used to determine the winner of any election along with voter turnout data by county. If the results file format is changed, your team can easily fix the code to continue to work. Additonally, this script may be easily used by your team to audit future elections, whether they are at the local level or have a larger data set, such as the state level. The script may also be modified to extract and summarize additonal data about voters and the votes recieved.
+After excluding the potentially altered reading and math scores for 9th graders at Thomas High School, the school district analysis changed in the following ways: 
+1. th 
+2. th
+3. th
+4. th
 
-### Input File Column Order
+
 
 
 ```
