@@ -25,69 +25,73 @@ Maria provided student data in a CSV file that contained each student's ID, name
 
 ### Impact on District Summary
 Original District Summary: 
-![Original District Summary](../main/Resources/district_sum_1.png)
+![Original District Summary](../main/Resources/district_sum_2.png)
 
 Updated District Summary:
-![Updated District Summary](../main/Resources/district_sum_2.png)
+![Updated District Summary](../main/Resources/district_sum_1.png)
 
 - Removing 
 
 ### Impact on School Summary
 Original Top 5 School Summary: 
-![Original Top 5](../main/Resources/school_top_1.png)
+![Original Top 5](../main/Resources/school_top_2.png)
 
 Updated Top 5 School Summary:
-![Updated Top 5](../main/Resources/school_top_2.png)
+![Updated Top 5](../main/Resources/school_top_1.png)
 
 - Removing 
 
 Original Bottom 5 School Summary: 
-![Original Bottom 5](../main/Resources/school_bottom_1.png)
+![Original Bottom 5](../main/Resources/school_bottom_2.png)
 
 Updated Bottom 5 School Summary:
-![Updated Bottom 5](../main/Resources/school_bottom_2.png)
+![Updated Bottom 5](../main/Resources/school_bottom_1.png)
 
 - Removing 
 
 ### Impact on Math and Reading Scores by Grade
-Original Math Scores: 
-![Original Math Scores](../main/Resources/math_1.png)
+Original Math Scores:
+
+![Original Math Scores](../main/Resources/math_2.png)
 
 Updated Math Scores:
-![Updated Math Scores](../main/Resources/math_2.png)
 
-Original Reading Scores: 
-![Original Reading Scores](../main/Resources/reading_1.png)
+![Updated Math Scores](../main/Resources/math_1.png)
+
+Original Reading Scores:
+
+![Original Reading Scores](../main/Resources/reading_2.png)
 
 Updated Reading Scores:
-![Updated Reading Scores](../main/Resources/reading_2.png)
+
+![Updated Reading Scores](../main/Resources/reading_1.png)
 
 - Removing 
 
 ### Impact on Scores by Spending
 Original Scores by Spending: 
-![Original Scores by Spending](../main/Resources/scores_1.png)
+![Original Scores by Spending](../main/Resources/spending_2.png)
 
 Updated Scores by Spending:
-![Updated Scores by Spending](../main/Resources/scores_2.png)
+![Updated Scores by Spending](../main/Resources/spending_1.png)
 
 - Removing 
 
 ### Impact on Scores by Size
-Original Scores by Spending: 
-![Original Scores by Size](../main/Resources/size_1.png)
+Original Scores by Size: 
+![Original Scores by Size](../main/Resources/size_2.png)
 
-Updated Scores by Spending:
-![Updated Scores by Size](../main/Resources/size_2.png)
+Updated Scores by Size:
+![Updated Scores by Size](../main/Resources/size_1.png)
 
 - Removing 
 
 ### Impact on Scores by School Type
-Original Scores by Spending: 
-![Original Scores by Type](../main/Resources/type_1.png)
+Original Scores by Type: 
+![Original Scores by Type](../main/Resources/type_2.png)
 
-Updated Scores by Spending:
-![Updated Scores by Type](../main/Resources/type_2.png)
+Updated Scores by Type:
+![Updated Scores by Type](../main/Resources/type_1.png)
 
 - Removing 
 
