@@ -41,7 +41,7 @@ Updated Top 5 School Summary:
 ![Updated Top 5](../main/Resources/school_top_1.png)
 
 - Thomas High school remains the second top ranked school by overall passing percentage both before and after excluding the altered scores. 
-- Thomas High school's data was the only row affected by the change, which makes sense because the excluded data only included student's from their school. It is worth nothing that their Overall Passing percentage descreased by 0.3%, which makes me believe the excluded data had a slightly higher overall passing percentage. 
+- Thomas High school's data was the only row affected by the change, which makes sense because the excluded data only included student's from their school. It is worth nothing that their % Passing Reading and Overall Passing percentage descreased by 0.3%, which makes me believe the excluded data had a slightly higher percentages. 
 
 Original Bottom 5 School Summary: 
 ![Original Bottom 5](../main/Resources/school_bottom_2.png)
@@ -100,8 +100,9 @@ Updated Scores by Type:
 
 ## Summary
 After excluding the potentially altered reading and math scores for 9th graders at Thomas High School, the school district analysis changed in the following ways: 
-1. Thomas High School was originally ranked as the second highest performaing school in reference to overall pass percentage. After excluding the data, their pass rate actually increased slightly, from 90.63% to 90.95%. However; they remained as the second highest school. 
-2. The entire school district's overall pass rate increased slightly by 0.3% from 64.9% to 65.2%.
-3. th
-4. th
+1. The entire school district's overall pass rate decreased slightly by 0.3%, dropping from 64.9% to 65.2%. This indicates the students excluded had a higher overall pass % than the district average.
+2. Thomas High School was originally ranked as the second highest performaing school in reference to overall pass percentage. After excluding the data, their pass rate decreased slightly, from 90.63% to 90.95%. However; they remained as the second highest ranked school. 
+3. Excluding the data had a significant impact to the school summary analysis because the amount of student data excluded was the highest proportion to the population of Thomas High. One of the four grades at their school had data removed, which explains the slighlty larger impact of 0.3% drop in their reading and overall passing percentage.
+4. The math and reading scores by grade table was notebly impacted - both tables had no data to calculate for Thomas High 9th graders in the updated run, so that value reads "nan" to indicate no results. 
+
 
